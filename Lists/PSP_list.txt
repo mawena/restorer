@@ -1,0 +1,17 @@
+[Games]
+	Assassins_Creed_Bloodlines2.cso
+	DBZ Tenkaichi TAG Team.cso
+	Dragon Ball Z - Shin Budokai.cso
+	Final_Fantasy_III.cso
+	God_of_War_Chains_of_Olympus.cso
+	Grand_Theft_Auto_Liberty_City_Stories.cso
+	Naruto_Shippuden_Ultimate_Ninja_Heroes_3.cso
+	Naruto_Shippuden_Ultimate_Ninja_Impact.cso
+	Naruto.Ultimate.Ninja.Heroes.2.The.Phantom.Fortress.cso
+	Naruto_Ultimate_Ninja_Heroes.cso
+	PES 2016.cso
+	Worms_Battle_Islands.cso
+
+[Help]
+	Certains de ces jeux ont été téléchargées en format iso puis convertis en format cso grâce la commande : "ciso 9 fichier.iso fichier.cso"
+	Les jeux peuvent être télécharger via torrent sur des sites comme "oxtorrent.com ou torrent9.is" ou sur "www.psp-passion.xyz"

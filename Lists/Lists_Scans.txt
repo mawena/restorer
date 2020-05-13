@@ -1,0 +1,14 @@
+[Nom]:[dernier chapitre visionné]:[dernier chapitre téléchargé]
+
+[Black clover]:[247]:[248]
+[Darwins_Game]:[0]:[0]
+[Demon_Slayer]:[202]:[203]
+[Dr.Stone]:[148]:[148]
+[My_Hero_Academie]:[190]:[269]
+[One_punch_man]:[50]:[50]
+[Solo_Leveling]:[109]:[109]
+[Samouraï]:[30]:[30]
+
+
+help:
+[]:[]:[]

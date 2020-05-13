@@ -1,0 +1,63 @@
+Films:
+	PELE 2016
+	Armageddon
+	Gisaengchung 2019
+	Hercules 2014
+	IO 2019
+	Lego DC Shazam Magic And Monsters 2020
+	Mortal Kombat Legends Scorpions Revenge 2020
+	ONE PIECE STAMPEDE mkv
+	Radioactive 2019
+	Robocop 2014
+	Stuber 2019
+	The Aeronauts 2019
+	The Boy Who Harnessed the Wind 2019
+	The Theo Of Every 2014
+	The Veil 2017
+	Tolerance Zero
+	7 Koğuştaki Mucize
+	The Imitation Game 2014
+	The Social Network 2010
+	My Hero Academia Two Heroes 2018
+	Hello World-2019
+	Ironbark
+	Aniara 2018
+	Bridget Joness Baby 2016
+	Charlies Angels 2019
+	Collateral Beauty 2016
+	Darkest Minds 2018
+	Gangs Of New York
+	Hacksaw Ridge 2016
+	Last Action Hero
+	Life 2017
+	Marriage Story 2019
+	Motherless Brooklyn 2019
+	Oceans Eight 2018
+	Project Almanac 2014
+	Prometheus 2012
+	Secret Obsession 2019
+	Star Trek Beyond 2016
+	Star Trek Into Darkness 2013
+	Sunshine
+	Superman Red Son 2020
+	The Current War 2017
+	THE DARK KNIGHT TRILOGY 2005-2012
+	The Thieves 2012
+
+Séries:
+	Fiction:
+		Imposters
+		Star.Trek.2009
+		Star Trek Discovery
+	
+	Mangas:
+		My Hero Academia S03E10
+		My Hero Academia S03E11
+		My Hero Academia S03E12
+		My Hero Academia S04E13
+		My Hero Academy S04E25
+Autres:
+Acteurs:
+	jesse eisenberg
+	benedict cumberbatch
+	robert downey jr

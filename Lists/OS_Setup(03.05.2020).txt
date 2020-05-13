@@ -1,0 +1,11 @@
+.
+├── Linux
+│   └── Wifislax
+│       └── wifislax64-2.0-final.iso
+├── OS_Setup.txt
+└── Windows
+    └── x64
+        └── Windows 10
+            └── Windows 10 Pro x64 incl Office 2019 fr-FR - ACTiVATED Dec 2019.iso
+
+5 directories, 3 files
