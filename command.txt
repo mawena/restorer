@@ -1,0 +1,9 @@
+
+#Commande pour installer le paquet os-unistalle qui permet de supprimer un os
+sudo add-apt-repository ppa:yannubuntu/boot-repair
+sudo apt-get update; sudo apt-get install os-uninstaller && os-uninstaller
+
+#Commande pour réparer le grub
+sudo os-prober
+sudo update-grub
+sudo grub-install /dev/sda
