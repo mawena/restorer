@@ -1,0 +1,10 @@
+Configurer apache2
+ajouter imagemagick pour le fonctionement de mangatopdf
+configurer ngrok
+ajouter le dossier bin du dossier personnel à la liste des dossiers de programme
+installer:
+	ngork
+	etcher
+	brave browser
+	ungit
+	brave bowser
