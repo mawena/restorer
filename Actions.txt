@@ -1,3 +1,4 @@
+installer lamp
 Configurer apache2
 ajouter imagemagick pour le fonctionement de mangatopdf
 configurer ngrok
